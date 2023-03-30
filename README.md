@@ -26,7 +26,7 @@
 <br>
 
 <style>
-   .libutton {
+   .button {
     display: flex;
     flex-direction: column;
     justify-content: center;
