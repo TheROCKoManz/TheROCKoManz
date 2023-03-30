@@ -25,27 +25,8 @@
 
 <br>
 
-<button name="button" onclick="http://www.google.com">Click me</button>
-
- <style>
-   button {
-     display: flex;
-     flex-direction: column;
-     justify-content: center;
-     padding: 7px;
-     text-align: center;
-     outline: none;
-     text-decoration: none !important;
-     color: #ffffff !important;
-     width: 200px;
-     height: 32px;
-     border-radius: 16px;
-     background-color: #0A66C2;
-     font-family: "SF Pro Text", Helvetica, sans-serif;
-   }
-  </style>
   
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manasij-haldar" target="_blank">Follow on LinkedIn</a>
+[![xyz](https://www.google.com/imgres?imgurl=https%3A%2F%2Fthelinkedinman.com%2Fwp-content%2Fuploads%2F2016%2F02%2FView-my-LinkedIn-profile-image-3-300x140.png&tbnid=lUuT6WzgplTNFM&vet=12ahUKEwjr-Je0nYT-AhWV9XMBHVMPDzgQMygCegUIARDHAQ..i&imgrefurl=https%3A%2F%2Fthelinkedinman.com%2Fhow-to-add-a-view-my-linkedin-profile-button-to-your-outlook-email-signature-plus-gmail-and-mac-mail%2F&docid=aad8EVjCBLFIxM&w=300&h=140&q=follow%20on%20linkedin%20button%20image&client=opera-gx&ved=2ahUKEwjr-Je0nYT-AhWV9XMBHVMPDzgQMygCegUIARDHAQ)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manasij-haldar)
 
 <br>
 
