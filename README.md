@@ -88,8 +88,8 @@
    ### - Python - C - C++ - Java -
 
    ## 🌱 Technical Skills and Expertise 
-   ### - Machine Learning - Deep Learning - Data Analytics-Science-Visualization - 
-   ### - Data Structures - Database Management System - Networking - Linux and OS - 
+   ### 🤖 Machine Learning - Computer Vision - Data Engineering - Large Language Models
+   ### ☁️ AWS - Google Cloud Platform - UChat
 
 <br>
 
