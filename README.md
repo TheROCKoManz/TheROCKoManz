@@ -1,6 +1,6 @@
 ![image](https://media.licdn.com/dms/image/D4D16AQHvMkMtZMkDPw/profile-displaybackgroundimage-shrink_200_800/0/1688903162376?e=2147483647&v=beta&t=SIfM6qzISCpLVLy1g1D0k7Oop0nLEOg7hv-bVRDxWPA)
 
-<h1>Manasij Haldar</h1>, AI Software Engineer</h1>
+<h1>Manasij Haldar, AI Software Engineer</h1>
 <p><strong>Delhi, IN | +91-7003341179 | <a href="mailto:manasijhaldar.official@gmail.com">manasijhaldar.official@gmail.com</a> | <a href="https://www.linkedin.com/in/manasij-haldar/">LinkedIn</a></strong></p>
 
 <hr>
