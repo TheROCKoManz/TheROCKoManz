@@ -19,7 +19,7 @@
 <ul>
   <li><strong>Brance Technologies New Delhi, IN</strong>
     <ul>
-      <li>AI Software Engineer (Sep 2023 - Present)</li>
+      <li>AI Software Engineer (Sep 2023 - July 2025)</li>
       <li>Developed and implemented conversational bots leveraging cutting-edge technologies, including Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generative (RAG) models.</li>
       <li>Optimized UChat platform workflows by architecting Python servers for AI recommenders and data engineering pipelines.</li>
       <li>Utilized Flask, FastAPI, Gunicorn, and Uvicorn to enhance performance and scalability.</li>
